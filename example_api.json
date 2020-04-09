@@ -1,0 +1,8 @@
+{
+  "api_shodan": "YOUR_API_SHODAN",
+  "censys_secret": "YOUR_API_CENSYS_SECRET",
+  "censys_uid": "YOUR_API_CENSYS_UID",
+  "onyphe_api": "YOUR_API_ONYPHE",
+  "binaryedge_api": "YOU_API_BINARY_EGDE"
+
+}

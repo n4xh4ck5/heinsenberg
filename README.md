@@ -14,7 +14,7 @@ Install the dependencies via pip:
   
  # Usage
  
- python3 sh0d4n.py -i <IP.txt> -a <API.json>
+ python3 eisenberg.py -i <IP.txt> -a <API.json>
   
  You need update your own API KEYS in the parameter file api.json. In the repository there is a example.
  

@@ -10,11 +10,11 @@ You can download the latest version of heinsenberg by cloning the GitHub reposit
 
 Install the dependencies via pip:
 
-  <pre> pip install -r requirements.txt </pre>
+  <pre> pip3 install -r requirements.txt </pre>
   
  # Usage
  
- python3 eisenberg.py -i <IP.txt> -a <API.json>
+ python3 heisenberg.py -i <IP.txt> -a <API.json>
   
  You need update your own API KEYS in the parameter file api.json. In the repository there is a example.
  
@@ -40,6 +40,7 @@ Dependencies in python3:
 <pre>
   requests
   xlsxwriter
+  json
 </pre>
   
 # Author

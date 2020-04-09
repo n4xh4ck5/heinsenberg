@@ -4,7 +4,7 @@ Tool to make a port scan through the API of Shodan, Censys, Onyphe and Binardy E
 
 # Instalation
 
-You can download the latest version of CMSsc4n by cloning the GitHub repository:
+You can download the latest version of heinsenberg by cloning the GitHub repository:
 
 <pre>git clone https://github.com/n4xh4ck5/heinsenberg </pre>
 
